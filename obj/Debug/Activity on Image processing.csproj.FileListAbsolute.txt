@@ -1,0 +1,9 @@
+C:\Users\MarkJohn\source\repos\Activity on Image processing\bin\Debug\Activity on Image processing.exe
+C:\Users\MarkJohn\source\repos\Activity on Image processing\bin\Debug\Activity on Image processing.pdb
+C:\Users\MarkJohn\source\repos\Activity on Image processing\obj\Debug\Activity on Image processing.csproj.AssemblyReference.cache
+C:\Users\MarkJohn\source\repos\Activity on Image processing\obj\Debug\Activity_on_Image_processing.Form1.resources
+C:\Users\MarkJohn\source\repos\Activity on Image processing\obj\Debug\Activity_on_Image_processing.Properties.Resources.resources
+C:\Users\MarkJohn\source\repos\Activity on Image processing\obj\Debug\Activity on Image processing.csproj.GenerateResource.cache
+C:\Users\MarkJohn\source\repos\Activity on Image processing\obj\Debug\Activity on Image processing.csproj.CoreCompileInputs.cache
+C:\Users\MarkJohn\source\repos\Activity on Image processing\obj\Debug\Activity on Image processing.exe
+C:\Users\MarkJohn\source\repos\Activity on Image processing\obj\Debug\Activity on Image processing.pdb
